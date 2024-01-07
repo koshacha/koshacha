@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript, TypeScript, ReactJS, NextJS
 - 💞️ I’m currently open to collaborate.
 - 🌱 I’m currently learning other frameworks and JS libs.
-- 📫 You can reach me on my [website](https://ilya-m.vercel.app), by mail baka@derpy.ru or Telegram [@Koshacha](https://t.me/Koshacha)
+- 📫 You can reach me on my [website](https://ilya-m.vercel.app), by mail wuvuxd@proton.me or Telegram [@Koshacha](https://t.me/Koshacha)
 
 <!---
 
