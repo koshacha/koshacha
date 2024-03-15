@@ -12,13 +12,8 @@
 
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:wuvuxd@proton.me) [![Telegram](https://img.shields.io/badge/Telegram-38bdf8?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Koshacha) [![Discord](https://img.shields.io/badge/Discord-7c3aed?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/316173966827978755)
 
-<br><br>
-
-<div align="center">
-  <img src="./assets/loli-spin-lolicopter.gif" />
-</div>
 <details align="left">
-  <summary align="center">Tech Stack</summary>
+  <summary align="left"><a>My Tech Stack</a></summary>
 
 #### Stack
 
@@ -42,4 +37,7 @@
 
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/koshacha/) [![Animelist](https://img.shields.io/badge/Animelist-1e40af?style=for-the-badge&logo=Myanimelist&logoColor=white)](https://myanimelist.net/animelist/ilyanobaka) [![Steam](https://img.shields.io/badge/Steam-312e81?style=for-the-badge&logo=Steam&logoColor=white)](https://steamcommunity.com/id/qbub/) ![Arc Browser](https://img.shields.io/badge/Arc_Browser-343DFC?style=for-the-badge&logo=Arc&logoColor=white) ![Macbook Pro 13](https://img.shields.io/badge/Macbook_Pro_13-9ca3af?style=for-the-badge&logo=apple&logoColor=1f2937)
 
+<div align="center">
+  <img src="./assets/loli-spin-lolicopter.gif" />
+</div>
 </details>
