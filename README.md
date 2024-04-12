@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Borel&weight=400&size=24&duration=6000&color=22c55e&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=610&height=40&lines=Hellow!;Hey! \o/;Sup.;Howdy?;Privet.;what's cooking, good looking?" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Borel&weight=400&size=24&duration=2000&color=22c55e&center=true&vCenter=true&multiline=false&repeat=true&random=true&width=610&height=40&lines=Hellow!;Hey! \o/;Sup.;Howdy?;Privet.;what's cooking, good looking?" /> 
   <img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=400&size=20&duration=4000&color=16a34a&center=true&vCenter=false&multiline=true&repeat=false&random=false&width=610&height=40&lines=I'm+Ilya%2C+a+Frontend+Developer+and+TypeScript+lover.+%E1%A1%A3%F0%90%AD%A9" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-15803d?style=for-the-badge&logo=proton-drive&logoColor=white)](https://hatsu.pro/portfolio) [![CV](https://img.shields.io/badge/CV-16a34a?style=for-the-badge&logo=read.cv&logoColor=white)](https://hatsu.pro/cv.pdf) [![Site](https://img.shields.io/badge/Site-22c55e?style=for-the-badge)](https://hatsu.pro/)
