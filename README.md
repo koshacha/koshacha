@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=400&size=20&duration=1500&color=16a34a&center=true&vCenter=false&multiline=true&repeat=false&random=false&width=610&height=40&lines=Hey.+I'm+Ilya%2C+a+Frontend+Developer+and+TypeScript+lover.+%E1%A1%A3%F0%90%AD%A9" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lexend&weight=400&size=20&duration=1500&color=16a34a&center=true&vCenter=false&repeat=false&random=false&width=610&height=40&lines=Hey.+I'm+Ilya%2C+a+Frontend+Developer+and+TypeScript+lover.+%E1%A1%A3%F0%90%AD%A9" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-15803d?style=for-the-badge&logo=proton-drive&logoColor=white)](https://hatsu.pro/portfolio) [![CV](https://img.shields.io/badge/CV-16a34a?style=for-the-badge&logo=read.cv&logoColor=white)](https://hatsu.pro/cv.pdf) [![Site](https://img.shields.io/badge/Site-22c55e?style=for-the-badge)](https://hatsu.pro/)
 
